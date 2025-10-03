@@ -1,5 +1,5 @@
 {
-  "name": "Snyk",
+  "name": "snyk",
   "version": "0.0.1",
   "mcpServers": {
     "snyk": {
